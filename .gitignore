@@ -10,3 +10,5 @@ env/
 *.csv
 
 .ipynb_checkpoints
+
+*.cfg
